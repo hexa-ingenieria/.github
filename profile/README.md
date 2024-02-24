@@ -1,2 +1,2 @@
 # HEXA Ingeniería
-![image](https://github.com/hexa-ingenieria/.github/assets/106250314/ad36597a-9f71-4695-aebf-155d0253bb62)
+![hexa-github](https://github.com/hexa-ingenieria/.github/assets/106250314/3667ba78-f0d2-4b93-8ea9-7db8cac73328)
